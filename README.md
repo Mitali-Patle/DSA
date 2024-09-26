@@ -1,2 +1,3 @@
 # DSA
-All DSA problems
+Collection of all DSA problems
+
